@@ -1,3 +1,4 @@
+"""Defining a function to greet."""
 def greet(who_to_greet):
     """Function to greet."""
     return f'Hello, {who_to_greet}'
